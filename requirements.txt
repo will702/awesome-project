@@ -1,0 +1,8 @@
+Flask
+cmake
+numpy
+opencv-python
+Werkzeug>=0.15
+imutils==0.5.3
+gunicorn
+dlib
